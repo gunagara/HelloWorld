@@ -10,6 +10,9 @@ public class IHappyHouzz {
      */
     public IHappyHouzz() {
         // TODO Auto-generated constructor stub
+    	
     }
-
+   public String Helloworld(){
+	   return "HelloWOrld";
+   }
 }
